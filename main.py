@@ -11,7 +11,7 @@ server = smtplib.SMTP("smtp.gmail.com", 587)
 
 server.starttls()
 
-server.login('<gmailemail>', 'gmailpass')
+server.login('<ursogay1029@gmail.com>', 'nzyxochshdilyvfs')
 
-server.sendmail('<from>',
-                '<number>@<IspEmail>', '<message>')
+server.sendmail('<ursogay1029@gmail.com>',
+                '<3142087405>@<mms.att.net>', '<hi>')
